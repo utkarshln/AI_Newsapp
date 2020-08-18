@@ -59,10 +59,10 @@ const App = () => {
         <div className={classes.footer}>
           <Typography variant="body1" component="h2">
             Created by
-            <a className={classes.link} href="https://www.linkedin.com/in/adrian-hajdin/"> Adrian Hajdin</a> -
-            <a className={classes.link} href="http://youtube.com/javascriptmastery"> JavaScript Mastery</a>
+            <a className={classes.link} href="#"> Utkarsh Kumar</a> -
+            <a className={classes.link} href="#">AI Project</a>
           </Typography>
-          <img className={classes.image} src={logo} height="50px" alt="JSMastery logo" />
+          <img className={classes.image} src={logo} height="50px" alt=" AI logo" />
         </div>
       ) : null}
     </div>
